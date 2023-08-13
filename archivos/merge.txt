@@ -2,3 +2,4 @@ Samuel Mira
 18 
 Espero no perder la materia :D
 Ahora sí se pudo subir la carpeta dado que había archivos dentro de ella. 
+Para Git, es difícil cuando se hacen cambios simultáneos, porque no sabe con cuál quedarse. Por eso hay que tener cuidado cuando se trabaja en dos archivos al mismo tiempo, para evitar este problema. 

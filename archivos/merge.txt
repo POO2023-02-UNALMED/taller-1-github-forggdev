@@ -1,0 +1,1 @@
+Ahora sí se pudo subir la carpeta dado que había archivos dentro de ella. 
